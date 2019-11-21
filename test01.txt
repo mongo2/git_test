@@ -1,2 +1,4 @@
 trace: 痕迹,踪迹
 Priority: 优先级
+sharding: 分表, 分片
+proxy: 代理
